@@ -8,5 +8,5 @@ RSpec.configure do |config|
   # config here
   
 def meal_choice(arg1="meat")
-  "#{arg1}"
+  "#{arg1}."
 end
